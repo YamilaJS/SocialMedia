@@ -10,13 +10,13 @@ namespace SocialMedia.Api.Controllers
 {
     [Route("Api/[controller]")]
     [ApiController]
-    public class PostController : Controllers.Base
+    public class PostController : ControllerBase
     {
         [HttpGet]
         public IActionResult GetPosts()
         {
             var posts = new PostRepository().GetPosts();
-            return Ok(null);
+            return Ok(posts);
         }
     }
 }

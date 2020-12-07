@@ -1,0 +1,5 @@
+#ignore file name `bin`
+bin/
+
+#ignore file name `obj`
+obj/

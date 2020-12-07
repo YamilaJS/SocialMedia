@@ -16,6 +16,8 @@ namespace SocialMedia.Infrastructure.Repositories
                 Description = $"Description {x}",
                 Image = $"https://misapis.com/{x}"
             });
+            
+            return posts;
         }
     }
 }

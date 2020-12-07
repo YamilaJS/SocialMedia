@@ -1,7 +1,0 @@
-/home/leonardo/ProyectosYami/SocialMedia/SocialMedia.Core/bin/Debug/netstandard2.0/SocialMedia.Core.deps.json
-/home/leonardo/ProyectosYami/SocialMedia/SocialMedia.Core/bin/Debug/netstandard2.0/SocialMedia.Core.dll
-/home/leonardo/ProyectosYami/SocialMedia/SocialMedia.Core/bin/Debug/netstandard2.0/SocialMedia.Core.pdb
-/home/leonardo/ProyectosYami/SocialMedia/SocialMedia.Core/obj/Debug/netstandard2.0/SocialMedia.Core.AssemblyInfoInputs.cache
-/home/leonardo/ProyectosYami/SocialMedia/SocialMedia.Core/obj/Debug/netstandard2.0/SocialMedia.Core.AssemblyInfo.cs
-/home/leonardo/ProyectosYami/SocialMedia/SocialMedia.Core/obj/Debug/netstandard2.0/SocialMedia.Core.dll
-/home/leonardo/ProyectosYami/SocialMedia/SocialMedia.Core/obj/Debug/netstandard2.0/SocialMedia.Core.pdb

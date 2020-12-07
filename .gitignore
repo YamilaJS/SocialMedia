@@ -1,5 +1,10 @@
 #ignore file name `bin`
-bin/
+SocialMedia.Api/bin
+SocialMedia.Core/bin
+SocialMedia.Infrastructure/bin
 
 #ignore file name `obj`
-obj/
+SocialMedia.Api/obj
+SocialMedia.Core/obj
+SocialMedia.Infrastructure/obj
+

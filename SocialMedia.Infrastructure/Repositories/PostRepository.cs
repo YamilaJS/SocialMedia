@@ -1,7 +1,8 @@
 using System;
 using System.Linq;
 using System.Collections.Generic;
-using System.Text;
+using SocialMedia.Core.Entities;
+
 namespace SocialMedia.Infrastructure.Repositories
 {
     public class PostRepository
@@ -16,7 +17,7 @@ namespace SocialMedia.Infrastructure.Repositories
                 Description = $"Description {x}",
                 Image = $"https://misapis.com/{x}"
             });
-            
+
             return posts;
         }
     }
